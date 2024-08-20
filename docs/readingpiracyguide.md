@@ -399,6 +399,7 @@
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 
+* [Mangalib](https://mangalib.me/?section=home-updates-6076256) - RUSSIAN MANGAS
 ***
 
 ## ▷ Manhua / Manhwa
@@ -419,7 +420,7 @@
 * [Kaliscan](https://kaliscan.io/)
 * [Manhwatop](https://manhwatop.com/)
 * [Manhwafull](https://manhwafull.com/)
-
+* [Mangalib](https://mangalib.me/?section=home-updates-6076256) - RUSSIAN MANHWA AND MANHUA
 ***
 
 ## ▷ Light Novels
